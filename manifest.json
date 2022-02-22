@@ -1,0 +1,16 @@
+{
+  "short_name": "Wordle",
+  "name": "Wordle",
+  "icons": [
+    {
+      "src": "/pub/wordle/images/wordle_logo_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://bhh.sh/pub/wordle/",
+  "background_color": "#6aaa64",
+  "display": "standalone",
+  "theme_color": "#6aaa64",
+  "description": "A daily word game"
+}
